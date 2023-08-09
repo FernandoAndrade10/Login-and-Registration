@@ -31,6 +31,4 @@ The project can be easily developed using Visual Studio, a popular integrated de
 
 * Open Visual Studio 2019/22
 * Select - Clone or check out code
-* In Repository Location enter: https://github.com/FernandoAndrade10/Calorie-Counting
-
-### Executing program
+* In Repository Location enter: https://github.com/FernandoAndrade10/Login-and-Registration
